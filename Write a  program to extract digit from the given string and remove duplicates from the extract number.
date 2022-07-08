@@ -1,4 +1,4 @@
-i=input()
+i="a2fd2g3"
 o=''
 for t in i:
     if t.isdigit():
