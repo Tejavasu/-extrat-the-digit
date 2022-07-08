@@ -1,0 +1,6 @@
+i=input()
+o=''
+for t in i:
+    if t.isdigit():
+       o+=t
+print(o)
